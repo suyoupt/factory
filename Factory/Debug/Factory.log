@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+c:\users\administrator\source\repos\factory\factory\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\source\repos\factory\factory\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\source\repos\factory\factory\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Product.cpp
+  Factory.cpp
+c:\users\administrator\source\repos\factory\factory\factory.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Car.cpp
+  Bus.cpp
+  正在生成代码...
+  Factory.vcxproj -> C:\Users\Administrator\source\repos\Factory\Debug\Factory.exe
+  Factory.vcxproj -> C:\Users\Administrator\source\repos\Factory\Debug\Factory.pdb (Partial PDB)
